@@ -1,6 +1,6 @@
 ### Olá! eu sou Gabrielly Portela
 
-- 🔭 Sou estudante de Análise e desenvolvimento de sistemas
+- 🔭 Sou estudante de Análise e desenvolvimento de sistemas na Universidade Católica de Brasília
 - 🌱 Estudando C e C++
 - 📫 Contate-me pelo email: gabrielly.portelas@gmail.com
 - 😄 Pronomes: Ela/dela
